@@ -1,0 +1,7 @@
+{
+  "name": "DailyLogger Pro",
+  "description": "An industrial-grade daily progress tracker and AI-powered weekly report generator for engineering projects.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
