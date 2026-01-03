@@ -7,7 +7,6 @@ export interface WeeklyEntry {
   risks: string;
   plan: string;
   riskLevel: 'low' | 'medium' | 'high';
-  doodle?: string; // Base64 image data for sketches
 }
 
 export interface IngestedDoc {
